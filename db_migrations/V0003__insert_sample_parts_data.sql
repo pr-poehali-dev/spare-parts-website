@@ -1,0 +1,7 @@
+INSERT INTO parts (name, article, description, price, brand_id, category_id, image_url, in_stock, stock_quantity) VALUES
+('Масляный фильтр', 'OF-2845', 'Высококачественный масляный фильтр для легковых автомобилей', 450.00, 1, 1, 'https://cdn.poehali.dev/projects/31dfca86-2a71-4456-928e-51a63be8df08/files/707d02bf-8e23-4985-a45e-1f5be17ce930.jpg', true, 25),
+('Тормозные колодки', 'BP-9412', 'Оригинальные тормозные колодки премиум качества', 2800.00, 2, 2, 'https://cdn.poehali.dev/projects/31dfca86-2a71-4456-928e-51a63be8df08/files/707d02bf-8e23-4985-a45e-1f5be17ce930.jpg', true, 15),
+('Свечи зажигания', 'SP-6721', 'Комплект свечей зажигания NGK', 680.00, 3, 3, 'https://cdn.poehali.dev/projects/31dfca86-2a71-4456-928e-51a63be8df08/files/707d02bf-8e23-4985-a45e-1f5be17ce930.jpg', true, 40),
+('Амортизатор передний', 'SH-3398', 'Амортизатор передний газомасляный', 4200.00, 4, 4, 'https://cdn.poehali.dev/projects/31dfca86-2a71-4456-928e-51a63be8df08/files/707d02bf-8e23-4985-a45e-1f5be17ce930.jpg', false, 0),
+('Воздушный фильтр', 'AF-1156', 'Воздушный фильтр повышенной эффективности', 520.00, 5, 1, 'https://cdn.poehali.dev/projects/31dfca86-2a71-4456-928e-51a63be8df08/files/707d02bf-8e23-4985-a45e-1f5be17ce930.jpg', true, 30),
+('Стартер', 'ST-8843', 'Стартер для европейских автомобилей', 8900.00, 6, 5, 'https://cdn.poehali.dev/projects/31dfca86-2a71-4456-928e-51a63be8df08/files/707d02bf-8e23-4985-a45e-1f5be17ce930.jpg', true, 8);
